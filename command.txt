@@ -1,1 +1,3 @@
+remote access to server -> ssh username@server_ip
 check nginx server -> dpkg -l | grep nginx
+nginx server status -> systemctl status nginx
